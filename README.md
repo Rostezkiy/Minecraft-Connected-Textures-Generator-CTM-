@@ -14,7 +14,7 @@ It turns a single block texture into the **47 unique tiles** required for seamle
 
 ## 📸 Preview
 
-*`![Screenshot](preview.png)`*
+![Screenshot](preview.png)
 
 ---
 
